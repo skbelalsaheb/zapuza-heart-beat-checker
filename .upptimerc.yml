@@ -12,10 +12,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: up.zapuza.com
   # baseUrl: /zapuza-heart-beat-checker
-  logoUrl: https://zapuza.com/wp-content/uploads/2022/10/Logo-1.png
-  name: Zapuza Uptime Monitoring
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: With Zapuza Beacon, you can monitor the health and performance of your infrastructure, receiving real-time insights and alerts when any issues arise. The app provides detailed analytics on system uptime, downtime, and performance metrics, allowing you to quickly identify and resolve potential problems.
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  name: Zapuza Beacon
+  introTitle: "**Zapuza Beacon** is a smart system monitoring and insights platform, ensuring all your operations run smoothly with real-time data and alerts."
+  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
