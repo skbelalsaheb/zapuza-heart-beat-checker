@@ -5,7 +5,7 @@ repo: zapuza-heart-beat-checker
 sites:
   - name: Eaipl ERP Portal
     url: https://emp.eaipl.co.in
-  
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
