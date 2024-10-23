@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/emp.eaipl.co.in.ico",
     "slug": "eaipl-erp-portal",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.85%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 1224,
     "timeDay": 1661,
     "timeWeek": 1224,
     "timeMonth": 1224,
     "timeYear": 1224,
     "dailyMinutesDown": {
-      "2024-10-23": 1
+      "2024-10-23": 15
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://pms.zapuza.in",
     "icon": "https://icons.duckduckgo.com/ip3/pms.zapuza.in.ico",
     "slug": "pms-portal",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1122,
-    "timeDay": 1046,
-    "timeWeek": 1122,
-    "timeMonth": 1122,
-    "timeYear": 1122,
+    "status": "up",
+    "uptime": "99.75%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
+    "time": 2401,
+    "timeDay": 4921,
+    "timeWeek": 2401,
+    "timeMonth": 2401,
+    "timeYear": 2401,
     "dailyMinutesDown": {
-      "2024-10-23": 0
+      "2024-10-23": 14
     }
   }
 ]
