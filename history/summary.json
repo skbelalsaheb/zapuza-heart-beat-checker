@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/emp.eaipl.co.in.ico",
     "slug": "eaipl-erp-portal",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
-    "time": 1209,
-    "timeDay": 1240,
-    "timeWeek": 1274,
-    "timeMonth": 1209,
-    "timeYear": 1209,
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 1202,
+    "timeDay": 1070,
+    "timeWeek": 1278,
+    "timeMonth": 1202,
+    "timeYear": 1202,
     "dailyMinutesDown": {
       "2024-10-23": 25
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1876,
-    "timeDay": 1157,
-    "timeWeek": 2075,
-    "timeMonth": 1876,
-    "timeYear": 1876,
+    "time": 1805,
+    "timeDay": 1094,
+    "timeWeek": 2084,
+    "timeMonth": 1805,
+    "timeYear": 1805,
     "dailyMinutesDown": {}
   }
 ]
