@@ -28,7 +28,7 @@
     "url": "https://pms.zapuza.in",
     "icon": "https://icons.duckduckgo.com/ip3/pms.zapuza.in.ico",
     "slug": "pms-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -40,6 +40,7 @@
     "timeMonth": 1330,
     "timeYear": 1307,
     "dailyMinutesDown": {
+      "2025-02-20": 0,
       "2025-01-31": 49,
       "2025-01-10": 277,
       "2025-01-09": 312,
