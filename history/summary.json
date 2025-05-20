@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.78%",
-    "time": 969,
-    "timeDay": 845,
-    "timeWeek": 813,
-    "timeMonth": 933,
-    "timeYear": 969,
+    "time": 970,
+    "timeDay": 953,
+    "timeWeek": 844,
+    "timeMonth": 936,
+    "timeYear": 970,
     "dailyMinutesDown": {
       "2025-05-06": 21,
       "2025-01-13": 23,
@@ -35,11 +35,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.35%",
     "uptimeYear": "99.38%",
-    "time": 1310,
-    "timeDay": 1278,
-    "timeWeek": 1330,
-    "timeMonth": 1323,
-    "timeYear": 1310,
+    "time": 1311,
+    "timeDay": 1323,
+    "timeWeek": 1335,
+    "timeMonth": 1324,
+    "timeYear": 1311,
     "dailyMinutesDown": {
       "2025-05-10": 290,
       "2025-05-09": 317,
@@ -54,5 +54,23 @@
       "2025-01-09": 312,
       "2024-11-10": 21
     }
+  },
+  {
+    "name": "MSCPL Technical Marketing",
+    "url": "https://mscplmkt.zapuza.in",
+    "icon": "https://icons.duckduckgo.com/ip3/mscplmkt.zapuza.in.ico",
+    "slug": "mscpl-technical-marketing",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1098,
+    "timeDay": 1098,
+    "timeWeek": 1098,
+    "timeMonth": 1098,
+    "timeYear": 1098,
+    "dailyMinutesDown": {}
   }
 ]
