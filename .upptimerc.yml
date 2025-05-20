@@ -7,7 +7,9 @@ sites:
 
   - name: PMS Portal
     url: https://pms.zapuza.in
-
+    
+  - name: MSCPL Technical Marketing
+    url: https://mscplmkt.zapuza.in
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
